@@ -15,7 +15,7 @@ Repositori ini berisi semua hasil praktikum dan tugas dari mata kuliah Pemrogram
 * [**Modul 5: Dasar-dasar PHP**](Modul-5/)
     * Mengenal dan memahami bentuk dasar skrip dan variabel-variabel PHP.
     * Memahami dan mengelola database menggunakan MySQL dengan
-bantuan Laragon dan phpMyAdmin.
+bantuan XAMPP dan phpMyAdmin.
 * [**Modul 6: PHP dan MYSQL**](Modul-6/)
     * Berisi tugas-tugas penanganan event dan validasi form.
 * [**Modul 7: Git & GitHub**](README.md)
